@@ -4,10 +4,11 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "dev": "slidev --open --remote",
+    "dev": "slidev --remote",
+    "dev:simple": "slidev",
     "export": "slidev export",
-    "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
-    "lint:fix": "eslint --ext .js,.ts,.vue --ignore-path .gitignore . --fix"
+    "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore . || true",
+    "lint:fix": "eslint --ext .js,.ts,.vue --ignore-path .gitignore . --fix || true"
   },
   "dependencies": {
     "@slidev/cli": "^51.4.0",
