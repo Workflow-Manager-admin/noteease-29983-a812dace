@@ -28,3 +28,23 @@ Error: spawn xdg-open ENOENT
 
   restarting...
 
+
+
+  ●■▲
+  Slidev  v51.5.0 
+
+  theme       @slidev/theme-default
+  css engine  unocss
+  entry       /home/kavia/workspace/code-generation/noteease-29983-a812dace/note_ease/slides.md
+
+  public slide show   > http://localhost:3000/
+  presenter mode      > http://localhost:3000/presenter/
+  slides overview     > http://localhost:3000/overview/
+  export slides       > http://localhost:3000/export/
+  remote control      > http://172.17.0.2:3000/entry/
+
+  shortcuts           > restart | open | edit | quit | qrcode
+Error: spawn xdg-open ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:284:19)
+    at onErrorNT (node:internal/child_process:477:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
