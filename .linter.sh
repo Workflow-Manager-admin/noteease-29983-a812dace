@@ -1,6 +1,6 @@
 #!/bin/bash
 cd /home/kavia/workspace/code-generation/noteease-29983-a812dace/note_ease
-npx run lint
+npm run lint
 ESLINT_EXIT_CODE=$?
 npm run build
 BUILD_EXIT_CODE=$?
