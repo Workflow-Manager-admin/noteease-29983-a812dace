@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 10, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "293c35623e48e3833594da6aee70ebe4", "format-version": 4, "code-base-name": "default", "filename": "note_ease/slides.md", "knowledge_revision": 10}

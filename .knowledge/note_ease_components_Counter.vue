@@ -1,0 +1,1 @@
+{"is_source_file": true, "file_id": 5, "git_revision": "", "state": 1, "description": "", "external_files": [], "external_methods": [], "published": [], "classes": [], "methods": [], "calls": [], "search-terms": [], "hash": "66da1ad8f59d559409777134ad5ba16c", "format-version": 4, "code-base-name": "default", "filename": "note_ease/components/Counter.vue", "knowledge_revision": 6}
